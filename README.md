@@ -53,5 +53,6 @@ The EDA highlights socio-economic factors (class, fare) and demographics (gender
 ---
 
 **Dataset Source**: [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)  
-**Author**: [Your Name]  
-**Contact**: [Your Email/LinkedIn]  
+**Author**: Abhishek kumar singh  
+**gmail**: abhishek.2671997@gmail.com 
+**Linkdin**: https://www.linkedin.com/in/abhishek-kumar-0a57b4bb/ 
